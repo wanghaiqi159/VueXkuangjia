@@ -1,4 +1,5 @@
 module.exports={
+    lintOnSave: false,
     publicPath:'/',
     // 修改静态资源路径
     outputDir:'dabao',

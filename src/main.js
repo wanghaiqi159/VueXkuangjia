@@ -9,7 +9,7 @@ import './plugins/element.js'
 Vue.config.productionTip = false
 Vue.prototype.timestamp = timestamp,
 Vue.prototype.$bus = bus
-Vue.prototype.GET = get
+Vue.prototype.GET = get 
 new Vue({
   router,
   store,
